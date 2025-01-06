@@ -1,7 +1,3 @@
-Got it! Here's a simpler, learning-focused README for your `my-agents` repo:
-
----
-
 # My Agents
 
 Welcome to **My Agents**, a collection of AI agents I’m building as I explore and learn new tools and frameworks. This repo serves as a playground for experimenting with **PHIDATA**, **LangChain**, and **Langraph** to create and understand AI agent workflows.
